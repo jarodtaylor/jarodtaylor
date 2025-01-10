@@ -1,4 +1,8 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+<!--<a href="https://github.com/echasnovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarodtaylor&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
+</a> -->
 
 <!--
 **jarodtaylor/jarodtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
